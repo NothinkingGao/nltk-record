@@ -1,3 +1,9 @@
+# 简介
+1. 访问http://php.net/'，爬取该页内容
+2. 使用BeautifulSoup清洗掉html标签
+3. 分割出单词
+4. 去掉停用词
+5. 画出词频曲线
 # 依赖
 1. python 3.6.2
 2. matplotlib
